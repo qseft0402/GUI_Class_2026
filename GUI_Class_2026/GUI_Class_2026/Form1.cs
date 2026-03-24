@@ -16,5 +16,18 @@ namespace GUI_Class_2026
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btn_ClickMe_Click(object sender, EventArgs e)
+        {
+            if(btn_ClickMe.Text=="按我一下")
+                btn_ClickMe.Text ="我已經被點擊過了";
+            else if (btn_ClickMe.Text=="我已經被點擊過了")
+                btn_ClickMe.Text ="按我一下";
+        }
     }
 }
