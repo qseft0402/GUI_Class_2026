@@ -40,6 +40,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.label2 = new System.Windows.Forms.Label();
             this.btnCalculator = new System.Windows.Forms.Button();
+            this.btnMidC2F = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -157,11 +158,22 @@
             this.btnCalculator.UseVisualStyleBackColor = true;
             this.btnCalculator.Click += new System.EventHandler(this.btnCalculator_Click);
             // 
+            // btnMidC2F
+            // 
+            this.btnMidC2F.Location = new System.Drawing.Point(494, 188);
+            this.btnMidC2F.Name = "btnMidC2F";
+            this.btnMidC2F.Size = new System.Drawing.Size(146, 59);
+            this.btnMidC2F.TabIndex = 11;
+            this.btnMidC2F.Text = "期中考-攝氏轉華氏";
+            this.btnMidC2F.UseVisualStyleBackColor = true;
+            this.btnMidC2F.Click += new System.EventHandler(this.btnMidC2F_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.btnMidC2F);
             this.Controls.Add(this.btnCalculator);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.button1);
@@ -196,6 +208,7 @@
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnCalculator;
+        private System.Windows.Forms.Button btnMidC2F;
     }
 }
 

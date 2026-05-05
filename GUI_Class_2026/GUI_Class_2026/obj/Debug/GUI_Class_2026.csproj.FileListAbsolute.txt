@@ -10,3 +10,4 @@ C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GU
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.pdb
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormBtnBigger.resources
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormCalculator.resources
+C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormMidC2F.resources

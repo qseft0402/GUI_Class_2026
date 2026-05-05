@@ -63,5 +63,10 @@ namespace GUI_Class_2026
         {
             new FormCalculator().Show();
         }
+
+        private void btnMidC2F_Click(object sender, EventArgs e)
+        {
+            new FormMidC2F().Show();
+        }
     }
 }
