@@ -41,6 +41,7 @@
             this.label2 = new System.Windows.Forms.Label();
             this.btnCalculator = new System.Windows.Forms.Button();
             this.btnMidC2F = new System.Windows.Forms.Button();
+            this.button2 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.fileSystemWatcher1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -168,11 +169,22 @@
             this.btnMidC2F.UseVisualStyleBackColor = true;
             this.btnMidC2F.Click += new System.EventHandler(this.btnMidC2F_Click);
             // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(282, 247);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(146, 59);
+            this.button2.TabIndex = 12;
+            this.button2.Text = "Timer";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.btnMidC2F);
             this.Controls.Add(this.btnCalculator);
             this.Controls.Add(this.label2);
@@ -209,6 +221,7 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button btnCalculator;
         private System.Windows.Forms.Button btnMidC2F;
+        private System.Windows.Forms.Button button2;
     }
 }
 

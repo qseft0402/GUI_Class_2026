@@ -68,5 +68,12 @@ namespace GUI_Class_2026
         {
             new FormMidC2F().Show();
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+   
+            new FormTimer().Show();
+
+        }
     }
 }
