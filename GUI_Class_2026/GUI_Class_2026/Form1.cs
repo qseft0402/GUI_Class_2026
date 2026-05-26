@@ -75,5 +75,15 @@ namespace GUI_Class_2026
             new FormTimer().Show();
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            new FormCheckBox().Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            new FormLayout().Show();
+        }
     }
 }
