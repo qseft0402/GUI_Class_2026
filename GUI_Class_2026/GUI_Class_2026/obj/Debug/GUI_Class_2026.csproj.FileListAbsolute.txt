@@ -14,3 +14,4 @@ C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GU
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormTimer.resources
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormCheckBox.resources
 C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormLayout.resources
+C:\Users\MEGAS\Desktop\GUI_Class_2026\GUI_Class_2026\GUI_Class_2026\obj\Debug\GUI_Class_2026.FormOderMenu.resources

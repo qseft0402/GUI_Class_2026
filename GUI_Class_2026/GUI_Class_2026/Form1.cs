@@ -85,5 +85,10 @@ namespace GUI_Class_2026
         {
             new FormLayout().Show();
         }
+
+        private void btnOderMenu_Click(object sender, EventArgs e)
+        {
+            new FormOderMenu().Show();
+        }
     }
 }
